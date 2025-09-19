@@ -1,2 +1,2 @@
 # machine-learning-zoomcamp
-Homework submission for ML zoomcamp by DataTalksClub
+Homework submission for ML zoomcamp by DataTalksClub Cohort 2025
