@@ -6,6 +6,7 @@ DataFrames : table with rows (data) and columns (columns)
 `df = pd.read_csv(url, index_col=0)` read csv file from remote location such as github 
 
 `df.head(n=2)` show headers and 2 rows 
+`df[df['origin'] == "Asia"][['vehicle_weight', 'model_year']]` return only column vehicle_weight and model_year from df where origin is Asia 
 
 Series : every column of df is a serie 
 
